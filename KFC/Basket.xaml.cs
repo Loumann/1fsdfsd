@@ -17,7 +17,7 @@ namespace KFC
 {
     /// <summary>
     /// Логика взаимодействия для Basket.xaml
-    /// </summary>
+    /// </summary>2332131
     public partial class Basket : Page
     {
         public Basket()
